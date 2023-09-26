@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harshhha03
 - 👀 I’m interested in enhancing my programming skills
 - 🌱 I’m currently learning java and python 
-- 💞️ I’m looking to collaborate on inka telidhu bro
+- 💞️ I’m looking to collaborate on any software company
 - 📫 How to reach me,send a mail to harshabhogi2003@gmail.com
 
 <!---
